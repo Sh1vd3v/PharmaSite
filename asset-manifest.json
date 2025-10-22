@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pharma-web-app/static/css/main.e6c13ad2.css",
+    "main.js": "/Pharma-web-app/static/js/main.40a77d10.js",
+    "index.html": "/Pharma-web-app/index.html",
+    "main.e6c13ad2.css.map": "/Pharma-web-app/static/css/main.e6c13ad2.css.map",
+    "main.40a77d10.js.map": "/Pharma-web-app/static/js/main.40a77d10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.40a77d10.js"
+  ]
+}
